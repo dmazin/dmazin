@@ -1,7 +1,3 @@
-Hello.
-
-I'm Dmitry Mazin.
-
 I was born in St. Petersburg, Russia. I moved to the US in 2000, when I was 9.
 
 I'm an SRE at Rollbar. A lot of what I do can be labeled observability. A better way to put it is that I am attuned to customer/coworker/infra pain-points (VMs have feelings too!).
