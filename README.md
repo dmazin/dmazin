@@ -1,4 +1,4 @@
-I was born in St. Petersburg, Russia. I moved to the US in 2000, when I was 9.
+I was born in St. Petersburg, Russia. I moved to the US in 2000, when I was 9. I now live in London, UK.
 
 I've contributed to open source a bit: [urllib3](https://github.com/urllib3/urllib3/pull/2197), [Rust docs](https://github.com/rust-lang/book/pull/2580), [GitHub CLI](https://github.com/cli/cli/pull/3374).
 
