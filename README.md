@@ -1,7 +1,5 @@
 I was born in St. Petersburg, Russia. I moved to the US in 2000, when I was 9.
 
-I'm an SRE at Rollbar.
-
 I've contributed to open source a bit: [urllib3](https://github.com/urllib3/urllib3/pull/2197), [Rust docs](https://github.com/rust-lang/book/pull/2580), [GitHub CLI](https://github.com/cli/cli/pull/3374).
 
 In 2021 @shaoster and I [helped quite a few people get vaccinated](https://www.mycentraljersey.com/story/news/health/2021/03/24/how-two-software-engineers-can-help-you-secure-covid-19-vaccine/4789775001/).
