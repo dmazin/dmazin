@@ -14,4 +14,4 @@ In 2021 @shaoster and I [helped quite a few people get vaccinated](https://www.m
 
 Previously, @dguilak and I started ughMoney. "We track your spending, and send you the bad news." The logo was a sad coin. It was great.
 
-In 2017, [I wrote for Mondo 2000 about the effects spell checkers and autocorrect are having on English](https://archvile.net/2017/12/12/pink-lexical-slime.html))
+In 2017, [I wrote for Mondo 2000 about the effects spell checkers and autocorrect are having on English](https://archvile.net/2017/12/12/pink-lexical-slime.html)
