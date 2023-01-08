@@ -8,7 +8,7 @@ Professionally, I babysit infra. For my last gig, I lead the platform team at Ro
 
 You can check out my [personal site](https://archvile.net) and [Mastodon](https://file-explorers.club/@dmitry).
 
-I've contributed to open source a bit: [urllib3](https://github.com/urllib3/urllib3/pull/2197), [Rust docs](https://github.com/rust-lang/book/pull/2580), [GitHub CLI](https://github.com/cli/cli/pull/3374).
+I've contributed to open source a bit: [urllib3](https://github.com/urllib3/urllib3/pull/2197), [Rust docs](https://github.com/rust-lang/book/pull/2580), [GitHub CLI](https://github.com/cli/cli/pull/3374). As of Jan 2023, I am working on a [declarative implementation of Kelsey Hightower's Learn Kubernetes the Hard way using Terraform and Ansible](https://github.com/dmazin/learn-kube-hard-way-declarative).
 
 In 2021 @shaoster and I [helped quite a few people get vaccinated](https://www.mycentraljersey.com/story/news/health/2021/03/24/how-two-software-engineers-can-help-you-secure-covid-19-vaccine/4789775001/).
 
